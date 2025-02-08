@@ -1,4 +1,4 @@
-Hi 👋 My name is Bom S. Lap
+Hi 👋 My name is Sompakorn Lapyai
 ===========================
 
 Medical student
