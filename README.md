@@ -1,22 +1,33 @@
-Hi 👋 My name is Sompakorn Lapyai
-===========================
+# Hi there 👋🏻
 
-Medical student
----------------
+My name is Sompkorn Lapyai (Bom), a medical student who loves website development and algorithms
 
-Who with a strong passion for web development and algorithms. While diving into the world of medicine, I also enjoy building web applications, optimizing code, and exploring problem-solving techniques.
+### 🎓 Education
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [sompakorn.lap@student.mahidol.edu](mailto:sompakorn.lap@student.mahidol.edu)
+- I'm studying in bachelor of Medicine at Faculty of Medicine Siriraj Hospital, Mahidol University. 🩺
 
-### Skills
+### 🔍 Interests
 
+- I'm interested in alogirthms and website development.
+- I'm familiar with Typescript, Elysia, MongoDB, PostgreSQL, React
+
+### 🏆 Awards
+
+- Silver medal from 16th Thailand Olympiad in Informatic.
+
+### 💻 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,bun,elysia,mongodb,postgresql,react" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,bun,elysia,mongodb,postgresql,vite,react,vscode&perline=5" />
 </p>
 
+### 📱 Socials
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/sompakorn-lap" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/___bom.s" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+    <a href="https://github.com/sompakorn-lap" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+    <a href="https://www.instagram.com/___bom.s" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+</p>
