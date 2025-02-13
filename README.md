@@ -9,16 +9,16 @@ My name is Sompkorn Lapyai (Bom), a medical student who loves website developmen
 ### 🔍 Interests
 
 - I'm interested in alogirthms and website development.
-- I'm familiar with Typescript, Elysia, MongoDB, PostgreSQL, React
+- I'm familiar with Typescript, Elysia, MongoDB, React
 
 ### 🏆 Awards
 
-- Silver medal from 16th Thailand Olympiad in Informatic.
+- Silver medal from 16th Thailand Olympiad in Informatic.🥈
 
 ### 💻 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,bun,elysia,mongodb,postgresql,vite,react,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,bun,elysia,mongodb,vite,react,vscode&perline=5" />
 </p>
 
 ### 📱 Socials
